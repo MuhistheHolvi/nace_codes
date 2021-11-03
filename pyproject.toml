@@ -8,6 +8,7 @@ authors = ["Mohammed Salman <mohammed@holvi.com>"]
 python = "^3.9"
 requests = "^2.26.0"
 attrs = "^21.2.0"
+six = "^1.16.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
